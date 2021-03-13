@@ -1,0 +1,17 @@
+@charset "ISO-8859-1";
+
+.jumbotron{
+	background: none;
+}
+
+
+
+
+
+table {
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid black;
+}

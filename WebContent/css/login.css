@@ -1,0 +1,22 @@
+@charset "ISO-8859-1";
+
+
+
+.col-sm-8{
+	float: left;
+}
+
+.jumbotron{
+background: none;
+
+}
+
+.container{
+	background: #ededed;
+}
+
+.row .headerTitle{
+	
+	margin-top: 20px;
+	
+}

@@ -1,0 +1,117 @@
+@charset "ISO-8859-1";
+.mainBody{
+	background: #f7f7f7;
+
+
+}
+.profilePic{
+	height: 180px;
+	
+	margin-top: 20px;
+
+}
+.box {
+	width: 100%;
+	min-height: 680px;
+}
+
+
+.col-sm-4 .card {
+	width: 400px;
+	background: none;
+	border: none;
+	margin-top: 20px;
+}
+
+.personalDetail{
+	float: left;
+}
+
+.salaryDetail{
+	float: right;
+}
+
+.col-sm-8 .card {
+	margin-top: 20px;
+	width: 100%;
+	float: right;
+	background: white;
+	border: none;
+}
+
+.btn {
+	margin-bottom: 5px;
+}
+
+.sDetails td {
+	width: 60%;
+}
+
+.sDetails {
+	margin-left: 20px;
+	
+}
+
+.sDetails thead td h3 {
+	margin: 0 25px;
+	margin-bottom: 20px;
+	margin-top: 30px;
+}
+
+.sDetails tbody td b {
+	margin-left: 25px;
+}
+
+
+.sDetails tbody td b::before {
+	font-size: 20px;
+	content: "\2022";
+	color: #0b69db;
+	font-weight: bold;
+	display: inline-block;
+	width: 1em;
+	margin-left: -1em;
+}
+
+.card-body {
+	box-sizing: border-box;
+}
+
+.cardReq {
+	width: 240px;
+	height: 350px;
+	float: right;
+	background: #0b69db;
+	color: white;
+	margin-right: 13px;
+	display: flex;
+	position: absolute;
+	top: 37%;
+	right: 4%;
+	border-radius: 4px;
+	margin-right: 13px;
+}
+
+.cardReq .jumbotron {
+	background: none;
+}
+.cardReq .jumbotron h1{
+
+text-align: center;
+margin-top: -20px;
+}
+.req_btn button {
+	border-color: 1px solid white;
+	background: white;
+	width: 177px;
+}
+.headerTitle {
+	margin-top: 70px;
+	opacity: 0.8;
+}
+
+
+.alertBox{
+position: absolute;
+width: 100%;
+}

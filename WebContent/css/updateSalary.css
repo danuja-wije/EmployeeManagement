@@ -1,0 +1,48 @@
+@charset "ISO-8859-1";
+
+.mainBody{
+	background: #f7f7f7;
+
+
+}
+.box{
+	background: white;
+	min-height: 650px;
+}
+.card{
+background: #f7f7f7;
+}
+.card img{
+	margin-left:30px;
+	margin-top:20px;
+	height: 175px;
+}
+.btn {
+	width: 200px;
+	margin-bottom: 5px;
+}
+
+.myTable{
+	margin-left: 20px;
+}
+.personalDetail{
+	background: #f7f7f7;
+	min-height: 650px;
+	margin-left: -5px;
+
+}
+
+.form-control{
+	margin-bottom: 20px;
+
+}
+
+
+.tableText h5{
+margin-bottom: 20px;
+font-size: 15px;
+}
+.headerTitle {
+	margin-top: 70px;
+	opacity: 0.8;
+}
